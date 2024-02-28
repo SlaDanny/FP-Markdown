@@ -1,6 +1,0 @@
-- [docs](./README.md)
-  - [Home](./README.md)
-  - [Sobre](./sobre.md)
-- [en](./en/README.md)
-  - [Home](./en/README.md)
-  - [About](./en/about.md)
