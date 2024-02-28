@@ -1,8 +1,6 @@
 # FP-Markdown
-Daniel Venâncio
-```
-2231688
-```
+Daniel Venâncio\
+`2231688`
 
 **<h3>Linguagens de programação conhecidas:**<h4>
 + C
